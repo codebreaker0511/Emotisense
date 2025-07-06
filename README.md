@@ -20,13 +20,6 @@ It is trained on the **FER-2013** dataset to classify facial expressions into em
 
 ---
 
-## How to Use
-1. Train the model using the FER-2013 dataset.
-2. Run the webcam detection script for real-time emotion recognition.
-
----
-
 ## Author
 Prashant Kumar  
-_Bio Science Engineering @ IIT Kanpur_
-
+_Bioengineering @ IIT Kanpur'28_
