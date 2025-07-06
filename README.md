@@ -22,4 +22,4 @@ It is trained on the **FER-2013** dataset to classify facial expressions into em
 
 ## Author
 Prashant Kumar  
-_Bioengineering @ IIT Kanpur'28_
+_Bio Science Engineering @ IIT Kanpur'28_
